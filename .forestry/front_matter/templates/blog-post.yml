@@ -1,4 +1,18 @@
 ---
 label: Blog post
 hide_body: true
-fields: []
+fields:
+- name: titolo
+  type: text
+  config:
+    required: false
+  label: Titolo
+- name: descrizione
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Descrizione
