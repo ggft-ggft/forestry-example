@@ -27,3 +27,5 @@ fields:
       file: 
       path: 
   label: delle scelte
+pages:
+- boh.md
