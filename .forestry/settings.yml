@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: docuemnto/ciao
+  path: "./README.md"
   label: Un documento
 - type: directory
   path: Lallero
