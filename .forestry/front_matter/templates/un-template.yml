@@ -1,4 +1,29 @@
 ---
 label: un template
 hide_body: false
-fields: []
+fields:
+- name: ununmero
+  type: number
+  label: ununmero
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: delle_scelte
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - ciao
+    - mare
+    - 'hello '
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: delle scelte
