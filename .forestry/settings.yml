@@ -8,7 +8,7 @@ sections:
   path: "./README.md"
   label: Un documento
 - type: directory
-  path: Lallero
+  path: ''
   label: Directory
   create: all
   match: "**/*"
