@@ -8,12 +8,12 @@ sections:
   label: Raggruppo le cose
 - type: document
   path: README.md
-  label: Un documento
+  label: README.md
 - type: heading
   label: Sezione Heading
 - type: directory
   path: ''
-  label: Directory
+  label: src
   create: all
   match: "**/*"
 upload_dir: uploads
