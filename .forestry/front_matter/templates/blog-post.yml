@@ -17,4 +17,5 @@ fields:
       format: markdown
   label: Descrizione
 pages:
+- ciaomare.md
 - unnomedifile.md
