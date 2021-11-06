@@ -1,7 +1,7 @@
 ---
 ununmero: 123
 delle_scelte: ciao
-
+layout: layout
 ---
 Pappero Pappa
 
